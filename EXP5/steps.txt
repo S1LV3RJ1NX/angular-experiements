@@ -1,0 +1,10 @@
+1)Create a simple web-app in angualr using following command:
+
+ng new web-app -it -is
+
+NOTE:-  -it : Inline Template 
+        -is : Inline Style
+Using these flags u won't get separatate html and css file for your main app. Useful only 
+when u are gng to use for very few html lines and css. 
+
+2) run the project using ng serve

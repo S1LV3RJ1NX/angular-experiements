@@ -1,0 +1,13 @@
+1) Create new angular project:
+ng new my-project 
+2) To demonstarte component directive:
+    i) Generate new component: ng g c my-component
+    ii) Add component selector in main app
+3) To demonstarte structure directive:
+    i) create another app.
+    ii) put some flag variables , list, etc in app;
+    iii) Use structure directive as *ngIf, *ngFor
+4) To demonstarte attribute directive:
+    i) Follow 3) i) and ii)
+    ii) Use [ngSwitch] as attribute directive
+5) Run project using ng serve

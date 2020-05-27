@@ -1,0 +1,5 @@
+1) create mongodb cloud account atlas (free)
+2) create new db in cluster
+3) create the project folder and npm init
+4) npm install mongodb --save
+5) create script that connects mongo

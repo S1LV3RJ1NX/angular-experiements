@@ -1,0 +1,7 @@
+1) Create new angular project using:
+ng new my-project -it -is
+2) Create new component within angular project using:
+ng g c my-component -it -is
+3) Add component selector in main app
+4) Run the project using:
+ng serve
